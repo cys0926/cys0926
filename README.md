@@ -32,7 +32,7 @@
 <h1 align="center"> 🌟 Activities 🌟</h1>
 <div>
   
-![cys0926's GitHub stats](https://github-readme-stats.vercel.app/api?username=cys0926&show_icons=true)
+![cys0926's GitHub stats](https://github-readme-stats.vercel.app/api?username=cys0926&show_icons=true&theme=radical)
   
 </div>
 <br/>
